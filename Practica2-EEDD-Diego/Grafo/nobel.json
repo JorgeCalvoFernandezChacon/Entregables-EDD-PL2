@@ -1,0 +1,8 @@
+[
+  {"sujeto": "persona:Einstein", "predicado": "nace_en", "objeto": "lugar:Ulm"},
+  {"sujeto": "persona:Einstein", "predicado": "profesion", "objeto": "profesion:Fisico"},
+  {"sujeto": "persona:Einstein", "predicado": "premio", "objeto": "premio:Nobel"},
+  {"sujeto": "persona:Hans_K", "predicado": "nace_en", "objeto": "lugar:Ulm"},
+  {"sujeto": "persona:Hans_K", "predicado": "profesion", "objeto": "profesion:Fisico"},
+  {"sujeto": "persona:Marie_Curie", "predicado": "premio", "objeto": "premio:Nobel"}
+]
