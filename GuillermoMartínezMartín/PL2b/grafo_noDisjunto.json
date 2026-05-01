@@ -1,6 +1,0 @@
-{
-  "tripletas": [
-    { "s": "nodo:A", "p": "conecta_con", "o": "nodo:B" },
-    { "s": "nodo:X", "p": "conecta_con", "o": "nodo:Y" }
-  ]
-}
